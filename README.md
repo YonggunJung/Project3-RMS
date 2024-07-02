@@ -5,7 +5,7 @@
 ## 사용 기술
 <img src="https://img.shields.io/badge/C#-색상?style=for-the-badge&logo=C#&logoColor=blueviolet">
 <img src="https://img.shields.io/badge/WinForm-blueviolet?style=for-the-badge&logo=WinForm&logoColor=blueviolet">
-<img src="https://img.shields.io/badge/MSSQL-색상?style=for-the-badge&logo=MSSQL&logoColor=white">
+<img src="https://img.shields.io/badge/MSSQL-색상?style=for-the-badge&logo=MSSQL&logoColor=blueviolet">
 <img src="https://img.shields.io/badge/Crystal Reports-색상?style=for-the-badge&logo=Crystal Reports&logoColor=white">
 C# WinForm MSSQL CystalReports
 
